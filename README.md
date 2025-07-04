@@ -36,7 +36,7 @@ Cybersecurity/
 
 2. Zainstaluj wymagania:
    ```
-   pip install -r requirements.txt
+   pip install requests
    ```
 
 3. Uruchom wybrany skrypt, np.:
