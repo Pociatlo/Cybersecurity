@@ -9,7 +9,7 @@ Folder z certyfikatami oraz materiałami edukacyjnymi w formacie PDF, zdobytymi 
 - **NetAcad Learning Transcript.pdf** — Oficjalny wykaz zaliczonych kursów Cisco Networking Academy.  
 - **Pre-Security.pdf** — Materiały szkoleniowe wprowadzające do bezpieczeństwa sieci.  
 - **ccna.pdf** — Certyfikat Cisco Certified Network Associate (CCNA).
-
+- **Security101.pdf** — Certyfikat ukończenia ścieżki edukacyjnej **Cyber Security 101** na platformie TryHackMe czas trwania: 45h 53min
 ---
 
 ## Struktura katalogów
@@ -18,7 +18,9 @@ Folder z certyfikatami oraz materiałami edukacyjnymi w formacie PDF, zdobytymi 
 achievements/
 ├── NetAcad Learning Transcript.pdf
 ├── Pre-Security.pdf
+├── Security101.pdf
 └── ccna.pdf
+
 ```
 
 ---
