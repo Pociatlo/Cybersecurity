@@ -82,5 +82,5 @@ def generate_rsa_keys(bits=8):
 
     return (e, d, n)
 
-# === Uruchomienie testowe ===
+
 generate_rsa_keys()
