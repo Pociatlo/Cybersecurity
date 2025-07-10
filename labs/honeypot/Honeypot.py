@@ -76,6 +76,6 @@ def main():
             except Exception as e:
                 log_event(f"Main loop error: {e}", log_file)
 
-# === Punkt wejścia ===
+
 if __name__ == "__main__":
     main()
