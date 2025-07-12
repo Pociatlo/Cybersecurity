@@ -10,6 +10,7 @@ Folder z certyfikatami oraz materiałami edukacyjnymi w formacie PDF, zdobytymi 
 - **Pre-Security.pdf** — Materiały szkoleniowe wprowadzające do bezpieczeństwa sieci.  
 - **ccna.pdf** — Certyfikat Cisco Certified Network Associate (CCNA).
 - **Security101.pdf** — Certyfikat ukończenia ścieżki edukacyjnej **Cyber Security 101** na platformie TryHackMe czas trwania: 45h 53min
+- **Industrial Intrusion CTF competition.pdf** — Certyfikat uczestnictwa w zawodach Capture The Flag (CTF); miejsce: 289/5953
 ---
 
 ## Struktura katalogów
@@ -19,7 +20,8 @@ achievements/
 ├── NetAcad Learning Transcript.pdf
 ├── Pre-Security.pdf
 ├── Security101.pdf
-└── ccna.pdf
+├── ccna.pdf
+└── Industrial Intrusion CTF competition.pdf
 
 ```
 
